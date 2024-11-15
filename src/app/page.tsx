@@ -3,7 +3,6 @@ import CaresignEventsTable from '@/components/table'; // Assurez-vous que le che
 import LanguageIconTransition from '@/components/transition';
 import { SidebarProvider, SidebarTrigger } from '@/components/ui/sidebar';
 import { AppSidebar } from '@/components/app-sidebare';
-import ResearchInput from '@/components/search';
 import Navbar from '@/components/navbar';
 
 const Page = () => {
